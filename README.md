@@ -1,1 +1,1 @@
-# Reinforcement-Learning-Labs
+# Reinforcement Learning Labs
